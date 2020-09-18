@@ -9,7 +9,8 @@
    <br>
    <br>
    
-   - 데이터 분석  
+   - datastudy_bicycle
+      - 데이터: __서울특별시 공공자전거 이용정보__(http://data.seoul.go.kr/dataList/OA-15245/F/1/datasetView.do) (출처:서울열린데이터광장)  
    
   
    
