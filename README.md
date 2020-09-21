@@ -13,7 +13,7 @@
       - 데이터: __공공자전거 이용정보(http://data.seoul.go.kr/dataList/OA-15245/F/1/datasetView.do)__ (출처:서울열린데이터광장)  
       
    - data분석  
-      - 데이타: 전력이용데이터  
+      - 데이타: 전력이용데이터(비공개)  
    
   
    
