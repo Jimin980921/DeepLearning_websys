@@ -18,6 +18,7 @@
    - data분석 (데이터: 전력이용데이터(비공개))  
       - [data_task1](https://github.com/Jimin980921/DeepLearning_websys/blob/master/data_task1.ipynb)  
          1월, 7월 데이터 분석하기  
+      - 
       
       
    
