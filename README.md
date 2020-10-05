@@ -13,7 +13,8 @@
   
 ### 데이터  
    - [datastudy_bicycle](https://github.com/Jimin980921/DeepLearning_websys/blob/master/datastudy_bicycle.ipynb)  
-      - 데이터: __공공자전거 이용정보(http://data.seoul.go.kr/dataList/OA-15245/F/1/datasetView.do)__ (출처:서울열린데이터광장)  
+      - 데이터: __공공자전거 이용정보(http://data.seoul.go.kr/dataList/OA-15245/F/1/datasetView.do)__  
+      (출처:서울열린데이터광장)  
       
    - data분석 (데이터: 전력이용데이터(비공개))  
       - [data_task1](https://github.com/Jimin980921/DeepLearning_websys/blob/master/data_task1.ipynb)  
