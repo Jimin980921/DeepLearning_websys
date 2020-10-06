@@ -24,7 +24,7 @@
    - [data_task1](https://github.com/Jimin980921/DeepLearning_websys/blob/master/data_task1.ipynb)  
       - 데이터: 전력이용데이터(비공개)  
       
-      -  [x] 1월, 7월 데이터 분석하기   
+      -  [x] 1월, 7월 데이터 월별, 일별, 시간별(15분단위) 분석해보기  
              
       -  [x] 요일별 분석해보기  
       -  [ ] LSTM 분석  
