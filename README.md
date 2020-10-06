@@ -21,9 +21,9 @@
       - [data_task1](https://github.com/Jimin980921/DeepLearning_websys/blob/master/data_task1.ipynb)  
          1월, 7월 데이터 분석하기  
       -  
-         [x]요일별 분석해보기  
-         [ ]LSTM 분석  
-         [ ]LSTM 파라미터변경  
+         [x] 요일별 분석해보기  
+         [ ] LSTM 분석  
+         [ ] LSTM 파라미터변경  
            
 
       
