@@ -26,11 +26,10 @@
       
       -  [x] 1월, 7월 데이터 월별, 일별, 시간별(15분단위) 분석해보기  
       <img src="https://user-images.githubusercontent.com/57060127/95681081-d8bdd500-0c18-11eb-9380-a979057b6a34.JPG" width=50%>  
-      <img src="https://user-images.githubusercontent.com/57060127/95681080-d78ca800-0c18-11eb-8af6-cc74253fc09d.JPG" width=50%>
+      <img src="https://user-images.githubusercontent.com/57060127/95681080-d78ca800-0c18-11eb-8af6-cc74253fc09d.JPG" width=50%>  
+      <br>
       <br>
       
-      
-             
       -  [x] 요일별 분석해보기  
       <img src="https://user-images.githubusercontent.com/57060127/95680939-0f472000-0c18-11eb-809c-296266b96c87.JPG" width=50%>
 
