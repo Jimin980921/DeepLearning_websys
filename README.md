@@ -25,11 +25,11 @@
       - 데이터: __전력이용데이터(비공개)__    
       
       -  [x] 1월, 7월 데이터 월별, 일별, 시간별(15분단위) 분석해보기  
-      <img src="https://user-images.githubusercontent.com/57060127/95680937-0ce4c600-0c18-11eb-840a-1196d3bcadf4.JPG" width=50%>
-      <img src="https://user-images.githubusercontent.com/57060127/95680938-0eae8980-0c18-11eb-912f-5919a97c3254.JPG" width=50%>
+      <img src="https://user-images.githubusercontent.com/57060127/95680937-0ce4c600-0c18-11eb-840a-1196d3bcadf4.JPG" width=40%>
+      <img src="https://user-images.githubusercontent.com/57060127/95680938-0eae8980-0c18-11eb-912f-5919a97c3254.JPG" width=40%>
              
       -  [x] 요일별 분석해보기  
-      <img src="https://user-images.githubusercontent.com/57060127/95680939-0f472000-0c18-11eb-809c-296266b96c87.JPG" width=50%>
+      <img src="https://user-images.githubusercontent.com/57060127/95680939-0f472000-0c18-11eb-809c-296266b96c87.JPG" width=40%>
 
       -  [ ] LSTM 분석  
       -  [ ] LSTM 파라미터변경  
