@@ -16,8 +16,12 @@
    #### 따릉이 데이터 분석  
    - [datastudy_bicycle](https://github.com/Jimin980921/DeepLearning_websys/blob/master/datastudy_bicycle.ipynb)  
       - 데이터: __공공자전거 이용정보(http://data.seoul.go.kr/dataList/OA-15245/F/1/datasetView.do)__  
-      (출처:서울열린데이터광장)
+      (출처:서울열린데이터광장)  
+      -  [x] 시간별 분석해보기  
+      __시간대별 대여건수,반납건수__  
+      <img src="https://user-images.githubusercontent.com/57060127/95681212-91841400-0c19-11eb-9b68-81457d68d4ed.JPG" width=50%>
       <br>
+      
       
       
    #### 전력 데이터 분석   
