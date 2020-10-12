@@ -31,16 +31,20 @@
       - 데이터: __전력이용데이터(비공개)__    
       
       -  [x] 1월, 7월 데이터 월별, 일별, 시간별(15분단위) 분석해보기  
-      __일(day)별__
+      __일(day)별__  
+      > 1월보다는 7월이 전체적으로 사용량이 많음  
       <img src="https://user-images.githubusercontent.com/57060127/95681081-d8bdd500-0c18-11eb-9380-a979057b6a34.JPG" width=50%>  
       
       __시간(15분)별__  
+      > 1월과 7월모두 아침 9시와 저녁 6시에 전력사용량이 증가함  
+      > 새벽시간대보다 출근시간~퇴근시간대에 전력사용량이 많음   
       <img src="https://user-images.githubusercontent.com/57060127/95681080-d78ca800-0c18-11eb-8af6-cc74253fc09d.JPG" width=50%>  
       <br>
       <br>
       
    - [data_task2](https://github.com/Jimin980921/DeepLearning_websys/blob/master/data_task2.ipynb)  
       -  [x] 요일별 분석해보기  
+      > 일요일의 전력사용량이 상대적으로 낮은것으로보아 휴일에 전력사용량이 낮음  
       <img src="https://user-images.githubusercontent.com/57060127/95680939-0f472000-0c18-11eb-809c-296266b96c87.JPG" width=50%>
 
       -  [ ] LSTM 분석  
