@@ -36,7 +36,7 @@
       <img src="https://user-images.githubusercontent.com/57060127/95681081-d8bdd500-0c18-11eb-9380-a979057b6a34.JPG" width=50%>  
       
       __시간(15분)별__  
-      > 1월과 7월모두 아침 9시와 저녁 6시에 전력사용량이 증가함  
+      > 1월과 7월모두 아침 9시와 저녁 6시에 전력사용량이 peak  
       > 새벽시간대보다 출근시간~퇴근시간대에 전력사용량이 많음   
       <img src="https://user-images.githubusercontent.com/57060127/95681080-d78ca800-0c18-11eb-8af6-cc74253fc09d.JPG" width=50%>  
       <br>
