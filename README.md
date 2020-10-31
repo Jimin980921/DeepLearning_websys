@@ -42,7 +42,7 @@
       > 새벽시간대보다 출근시간~퇴근시간대에 전력사용량이 많음   
       <img src="https://user-images.githubusercontent.com/57060127/95681080-d78ca800-0c18-11eb-8af6-cc74253fc09d.JPG" width=50%>  
       <br>
-      <br>
+      <br> 
       
    - [data_task2](https://github.com/Jimin980921/DeepLearning_websys/blob/master/data_task2.ipynb)   
       -  [x] 요일별 분석해보기  
