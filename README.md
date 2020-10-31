@@ -1,4 +1,4 @@
-## 딥러닝 전력예측 웹시스템(09.10~ing)    
+## 딥러닝 전력예측 웹시스템(09.10~ing)     
 ### Web개발실습
    - Flask   
    설치: pip install flask (flask 웹 프레임워크 사용)   
