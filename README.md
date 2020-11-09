@@ -59,10 +59,10 @@
       i) optimizer= adam  
        전력  loss=  
        전력+온도  loss=   
-       <p>
+   
       ii) optimizer= RMSProp  
-       전력  loss=  
-       전력+온도  loss=  
+       전력  loss=    
+       전력+온도  loss=    
 
       
       
