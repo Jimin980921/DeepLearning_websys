@@ -48,11 +48,20 @@
       -  [x] 요일별 분석해보기  
       > 일요일의 전력사용량이 상대적으로 낮은것으로보아 휴일에 전력사용량이 낮음  
       <img src="https://user-images.githubusercontent.com/57060127/95680939-0f472000-0c18-11eb-809c-296266b96c87.JPG" width=50%>
- 
-      -  [ ] LSTM 분석   
-      -  [ ] LSTM 파라미터변경  
-      -  [ ] 온도요인추가하기  
-      -  [ ] 전력요인으로만 예측한것vs전력+온도요인예측 정확도 비교  
+      <br>
+      
+      
+   - [LSTM(ver.2)](https://github.com/Jimin980921/DeepLearning_websys/blob/master/data_task2.ipynb)  
+      -  [x] LSTM 분석   
+      -  [x] LSTM 파라미터변경  
+      -  [x] 온도요인추가하기  
+      -  [x] 전력요인으로만 예측한것vs전력+온도요인예측 정확도 비교   
+       i) optimizer= adam  
+        전력  loss=  
+        전력+온도  loss=   
+       ii) optimizer= RMSProp  
+        전력  loss=  
+        전력+온도  loss=  
 
       
       
