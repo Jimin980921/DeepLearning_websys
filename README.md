@@ -56,12 +56,14 @@
       -  [x] LSTM 파라미터변경  
       -  [x] 온도요인추가하기  
       -  [x] 전력요인으로만 예측한것vs전력+온도요인예측 정확도 비교   
-       i) optimizer= adam  
-        전력  loss=  
-        전력+온도  loss=   
-       ii) optimizer= RMSProp  
-        전력  loss=  
-        전력+온도  loss=  
+      i) optimizer= adam  
+       전력  loss=  
+       전력+온도  loss=   
+       <br>
+       
+      ii) optimizer= RMSProp  
+       전력  loss=  
+       전력+온도  loss=  
 
       
       
