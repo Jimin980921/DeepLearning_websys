@@ -1,6 +1,4 @@
-## 딥러닝 전력예측 웹시스템(09.10~ing)  
-  p.s) 그래프 plotly github에서 보이지 않음  
-  
+## 딥러닝 전력예측 웹시스템(09.10~ing)   
   ### 따릉이 데이터 분석  
    - [datastudy_bicycle](https://github.com/Jimin980921/DeepLearning_websys/blob/master/datastudy_bicycle.ipynb)  
       - 데이터: __공공자전거 이용정보(http://data.seoul.go.kr/dataList/OA-15245/F/1/datasetView.do)__  
@@ -12,7 +10,6 @@
       <br>
       <br>
       <br>
-      
       
       
    --------------------------------------------------------------------------------------------
