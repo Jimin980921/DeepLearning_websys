@@ -67,7 +67,7 @@
       > 전력만 사용했을때가 전력+온도를 함께 사용했을때보다 정확도가 높은 것을 알 수 있음  
       <br>
       
-   - [LSTM(ver.4)](
+   - [LSTM(ver.4)](https://github.com/Jimin980921/DeepLearning_websys/blob/master/LSTM(ver.4).ipynb)  
       -  [x] 전력요인으로만 예측한것vs전력+온도요인예측 정확도 비교  
       
       __전력만__ 평균절대비오차= 3.04  
