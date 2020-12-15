@@ -1,17 +1,6 @@
-## 딥러닝 전력예측 웹시스템(09.10~ing)     
-### Web개발실습
-   - Flask   
-   설치: pip install flask (flask 웹 프레임워크 사용)    
-   __anaconda prompt 관리자모드 -> 경로이동__   
-      - app.py  
-         python app.py 실행  
-      - routing.py  
-         python routing.py 실행  
-   <br> 
-       
-   
-  ------------------------------------------------------------------------------------------- 
-  p.s) 그래프 plotly github에 보이지 않음     
+## 딥러닝 전력예측 웹시스템(09.10~ing)  
+  p.s) 그래프 plotly github에서 보이지 않음  
+  
   ### 따릉이 데이터 분석  
    - [datastudy_bicycle](https://github.com/Jimin980921/DeepLearning_websys/blob/master/datastudy_bicycle.ipynb)  
       - 데이터: __공공자전거 이용정보(http://data.seoul.go.kr/dataList/OA-15245/F/1/datasetView.do)__  
@@ -75,7 +64,23 @@
       
       __전력+온도__ 평균절대비오차= 4.54  
       <img src="https://user-images.githubusercontent.com/57060127/102181902-b1bca180-3eee-11eb-8704-5619780ad346.JPG" width=50%>  
-      > 전력만 사용했을때가 전력+온도를 함께 사용했을때보다 정확도 높은 것을 다시 확인함
+      > 전력만 사용했을때가 전력+온도를 함께 사용했을때보다 정확도 높은 것을 다시 확인함  
+      <br>
+      <br>
+      <br>
+      
+      ---------------------------------------------------------------------------------------------------------------
+      ### Web개발실습  
+   - Flask   
+   설치: pip install flask (flask 웹 프레임워크 사용)    
+   __anaconda prompt 관리자모드 -> 경로이동__   
+      - app.py  
+         python app.py 실행  
+      - routing.py  
+         python routing.py 실행  
+   <br> 
+   
+
   
    
    
