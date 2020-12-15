@@ -68,8 +68,9 @@
       <br>
       
    - [LSTM(ver.4)](https://github.com/Jimin980921/DeepLearning_websys/blob/master/LSTM(ver.4).ipynb)  
+   
       -  [x] 전력요인으로만 예측한것vs전력+온도요인예측 정확도 비교  
-      
+      > optimizer= adam  
       __전력만__ 평균절대비오차= 3.04  
       <img src="https://user-images.githubusercontent.com/57060127/102181907-b2edce80-3eee-11eb-8781-33fabfafb7b1.JPG" width=50%>  
       
