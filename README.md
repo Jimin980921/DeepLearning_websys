@@ -67,8 +67,8 @@
    - [LSTM(ver.5)](https://github.com/Jimin980921/DeepLearning_websys/blob/master/LSTM(ver.5).ipynb)  
       -  [x] 전력요인으로만 예측한것vs전력+온도요인예측 정확도 비교  
       
-      __전력만__ RMSE: 266.782  
-      __전력+온도__ RMSE: 1870.198   
+      __전력만__ RMSE: 290.901  
+      __전력+온도__ RMSE: 2013.189   
       > 전력만 사용했을때가 전력+온도를 함께 사용했을때보다 정확도 높은 것을 확인    
       
    -  
