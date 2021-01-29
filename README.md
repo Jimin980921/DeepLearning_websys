@@ -53,6 +53,7 @@
       - 데이터: __전력이용 1년 데이터(비공개)__   
       
       -  [x] 전력요인으로만 예측한것vs전력+온도요인예측 정확도 비교  
+      
       __전력만__ 평균절대비오차= 3.04   
       <img src="https://user-images.githubusercontent.com/57060127/102181907-b2edce80-3eee-11eb-8781-33fabfafb7b1.JPG" width=50%>
       
