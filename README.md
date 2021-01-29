@@ -1,8 +1,9 @@
 ## 딥러닝 전력예측 웹시스템(09.10~ing)   
   ### 따릉이 데이터 분석  
    - [datastudy_bicycle](https://github.com/Jimin980921/DeepLearning_websys/blob/master/datastudy_bicycle.ipynb)  
-      - 데이터: __[공공자전거 이용정보](http://data.seoul.go.kr/dataList/OA-15245/F/1/datasetView.do)__  
+      - 데이터: __[공공자전거 이용정보](http://data.seoul.go.kr/dataList/OA-15245/F/1/datasetView.do)__   
       (출처:서울열린데이터광장)  
+      
       -  [x] 시간대별 대여건수,반납건수 분석해보기  
       > 출근시간과 퇴근시간대에 자전거 대여, 반납건수가 많음  
       <img src="https://user-images.githubusercontent.com/57060127/95681212-91841400-0c19-11eb-9b68-81457d68d4ed.JPG" width=50%>
