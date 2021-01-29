@@ -54,9 +54,11 @@
       
       -  [x] 전력요인으로만 예측한것vs전력+온도요인예측 정확도 비교  
       __전력만__ 평균절대비오차= 3.04   
-      <img src="https://user-images.githubusercontent.com/57060127/102181907-b2edce80-3eee-11eb-8781-33fabfafb7b1.JPG" width=50%>  
+      <img src="https://user-images.githubusercontent.com/57060127/102181907-b2edce80-3eee-11eb-8781-33fabfafb7b1.JPG" width=50%>
+      
       __전력+온도__ 평균절대비오차= 4.54  
-      <img src="https://user-images.githubusercontent.com/57060127/102181902-b1bca180-3eee-11eb-8704-5619780ad346.JPG" width=50%>  
+      <img src="https://user-images.githubusercontent.com/57060127/102181902-b1bca180-3eee-11eb-8704-5619780ad346.JPG" width=50%>
+      
       > 전력만 사용했을때가 전력+온도를 함께 사용했을때보다 정확도 높은 것을 확인  
       <br>
       
