@@ -12,14 +12,12 @@
    --------------------------------------------------------------------------------------------
    ### 전력 데이터 분석   
    - [data_task1](https://github.com/Jimin980921/DeepLearning_websys/blob/master/data_task1.ipynb)  
-      - 데이터: __전력이용데이터(비공개)__    
-      
+      - 데이터: __전력이용 1,7월 데이터(비공개)__    
+     
       -  [x] 1월, 7월 데이터 월별, 일별, 시간별(15분단위) 분석해보기  
-      
       __일(day)별__  
       > 1월보다는 7월이 전체적으로 사용량이 많음  
       <img src="https://user-images.githubusercontent.com/57060127/95681081-d8bdd500-0c18-11eb-9380-a979057b6a34.JPG" width=50%>  
-      
       __시간(15분)별__   
       > 1월과 7월모두 아침 9시와 저녁 6시에 전력사용량 peak  
       > 새벽시간대보다 출근시간~퇴근시간대에 전력사용량이 많음   
@@ -33,6 +31,8 @@
       <br>
       
    - [LSTM(ver.2)](https://github.com/Jimin980921/DeepLearning_websys/blob/master/data_task2.ipynb)  
+      - 데이터: __전력이용 1,7월 데이터(비공개)__   
+      
       -  [x] LSTM 분석   
       -  [x] LSTM 파라미터변경  
       -  [x] 온도요인추가하기  
@@ -49,17 +49,19 @@
       <br>
       
    - [LSTM(ver.4)](https://github.com/Jimin980921/DeepLearning_websys/blob/master/LSTM(ver.4).ipynb)  
-      -  [x] 전력요인으로만 예측한것vs전력+온도요인예측 정확도 비교  
-       
-      __전력만__ 평균절대비오차= 3.04  
-      <img src="https://user-images.githubusercontent.com/57060127/102181907-b2edce80-3eee-11eb-8781-33fabfafb7b1.JPG" width=50%>  
+      - 데이터: __전력이용 1년 데이터(비공개)__   
       
+      -  [x] 전력요인으로만 예측한것vs전력+온도요인예측 정확도 비교  
+      __전력만__ 평균절대비오차= 3.04   
+      <img src="https://user-images.githubusercontent.com/57060127/102181907-b2edce80-3eee-11eb-8781-33fabfafb7b1.JPG" width=50%>  
       __전력+온도__ 평균절대비오차= 4.54  
       <img src="https://user-images.githubusercontent.com/57060127/102181902-b1bca180-3eee-11eb-8704-5619780ad346.JPG" width=50%>  
       > 전력만 사용했을때가 전력+온도를 함께 사용했을때보다 정확도 높은 것을 확인  
       <br>
       
    - [CNN+LSTM 하이브리드모델](https://github.com/Jimin980921/DeepLearning_websys/blob/master/CNN+LSTM.ipynb)  
+      - 데이터: __전력이용 1년 데이터(비공개)__  
+      
       -  [x] 전력 단일요인 vs 전력+온도 다중요인 정확도 비교  
       __전력만__ 평균절대비오차= 6.187  
       __전력+온도__ 평균절대비오차= 29.814 
@@ -67,6 +69,8 @@
       <br>
       
    -  [LSTM 최종모델]  
+      - 데이터: __전력이용 1년 데이터(비공개)__  
+      
       -  [ ] 전력 단일요인 vs 전력+온도 다중요인 정확도 비교  
       __전력만__ 평균절대비오차=  
       __전력+온도__ 평균절대비오차=  
