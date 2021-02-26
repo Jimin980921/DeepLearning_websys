@@ -67,11 +67,13 @@
       - 데이터: __전력이용 1년 데이터(비공개)__  
       
       -  [x] 계절성 모델  
-      -   봄  
-      __전력(2.97)__ |  __전력+온도(2.96)__ |  
-:------------------------------------:|:-------------------------:|
-<img src="https://user-images.githubusercontent.com/57060127/109314822-2f0c7700-788d-11eb-8780-2dfaa3bd885d.png">  | <img src="https://user-images.githubusercontent.com/57060127/109314908-45b2ce00-788d-11eb-83ed-6ab72ac517a4.png">
-<p> 
+      -  봄  
+전력(2.97)            |  전력+온도(2.96)
+:-------------------------:|:-------------------------:
+![](https://user-images.githubusercontent.com/57060127/109316509-0b4a3080-788f-11eb-8188-6926bc517e62.png)  |  ![](https://user-images.githubusercontent.com/57060127/109316610-26b53b80-788f-11eb-9d55-35ffe772056e.png)  
+<p>
+  
+  
 
 
    -  [LSTM 최종모델](https://github.com/Jimin980921/DeepLearning_websys/blob/master/LSTM(per_season).ipynb)  
