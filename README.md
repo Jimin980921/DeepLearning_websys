@@ -66,18 +66,14 @@
    - [CNN+LSTM 하이브리드모델](https://github.com/Jimin980921/DeepLearning_websys/blob/master/CNN%2BLSTM(per_season).ipynb)  
       - 데이터: __전력이용 1년 데이터(비공개)__  
       
-      -  [x] 전력 단일요인 vs 전력+온도 다중요인 정확도 비교  
-      __전력만__ 평균절대비오차= 6.187  
-      __전력+온도__ 평균절대비오차= 29.814 
-      > 전력만 사용했을때가 전력+온도를 함께 사용했을때보다 정확도 높은 것을 확인  
+      -  [x] 계절성 모델  
+      -   
       <br>
       
-   -  [LSTM 최종모델]  
+   -  [LSTM 최종모델](https://github.com/Jimin980921/DeepLearning_websys/blob/master/LSTM(per_season).ipynb)  
       - 데이터: __전력이용 1년 데이터(비공개)__  
       
-      -  [ ] 전력 단일요인 vs 전력+온도 다중요인 정확도 비교  
-      __전력만__ 평균절대비오차=  
-      __전력+온도__ 평균절대비오차=  
+      -  [x] 계절성 모델   
       > 전력만 사용했을때가 전력+온도를 함께 사용했을때보다 정확도 높은 것을 확인  
       <br>
       
