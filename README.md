@@ -66,33 +66,31 @@
    - [CNN+LSTM 하이브리드모델](https://github.com/Jimin980921/DeepLearning_websys/blob/master/CNN%2BLSTM(per_season).ipynb)  
       - 데이터: __전력이용 1년 데이터(비공개)__  
       
-      -  [x] 계절성 모델  
-      
--  봄  
+ -  봄  
  
 __전력(2.97)__            |  __전력+온도(2.96)__
 :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/57060127/109316509-0b4a3080-788f-11eb-8188-6926bc517e62.png" width="60%"> | <img src="https://user-images.githubusercontent.com/57060127/109316610-26b53b80-788f-11eb-9d55-35ffe772056e.png" width="60%">
+<img src="https://user-images.githubusercontent.com/57060127/109316509-0b4a3080-788f-11eb-8188-6926bc517e62.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109316610-26b53b80-788f-11eb-9d55-35ffe772056e.png" width="300" height="150">
 
 
 -  여름  
 
 __전력(17.57)__            |  __전력+온도(17.34)__
 :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/57060127/109317213-d2f72200-788f-11eb-9c90-db827e178b8b.png" width="60%"> | <img src="https://user-images.githubusercontent.com/57060127/109317251-de4a4d80-788f-11eb-9c5c-8915f6c9b163.png" width="60%">
+<img src="https://user-images.githubusercontent.com/57060127/109317213-d2f72200-788f-11eb-9c90-db827e178b8b.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109317251-de4a4d80-788f-11eb-9c5c-8915f6c9b163.png" width="300" height="150">
 
 
 -  가을 
 
 __전력(5.03)__            |  __전력+온도(5.05)__
 :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/57060127/109317509-1fdaf880-7890-11eb-85f2-932f02c47633.png" width="60%"> | <img src="https://user-images.githubusercontent.com/57060127/109317550-29646080-7890-11eb-9602-9b788518d5b3.png" width="60%">
+<img src="https://user-images.githubusercontent.com/57060127/109317509-1fdaf880-7890-11eb-85f2-932f02c47633.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109317550-29646080-7890-11eb-9602-9b788518d5b3.png" width="300" height="150">
 
 -  겨울
 
 __전력(5.86)__            |  __전력+온도(6.32)__
 :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/57060127/109317633-41d47b00-7890-11eb-8d59-9ca40ab5b0c9.png" width="60%"> | <img src="https://user-images.githubusercontent.com/57060127/109317678-4ac54c80-7890-11eb-85ec-2a97c78160ec.png" width="60%">   
+<img src="https://user-images.githubusercontent.com/57060127/109317633-41d47b00-7890-11eb-8d59-9ca40ab5b0c9.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109317678-4ac54c80-7890-11eb-85ec-2a97c78160ec.png" width="300" height="150">   
 
 
 -  [LSTM 최종모델](https://github.com/Jimin980921/DeepLearning_websys/blob/master/LSTM(per_season).ipynb)  
