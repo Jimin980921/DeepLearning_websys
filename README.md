@@ -65,7 +65,7 @@
       
    - [CNN+LSTM 하이브리드모델](https://github.com/Jimin980921/DeepLearning_websys/blob/master/CNN%2BLSTM(per_season).ipynb)  
       - 데이터: __전력이용 1년 데이터(비공개)__  
-      
+      -  [x] 계절성 모델  
  -  봄  
  
 __전력(2.97)__            |  __전력+온도(2.96)__
@@ -91,15 +91,40 @@ __전력(5.03)__            |  __전력+온도(5.05)__
 __전력(5.86)__            |  __전력+온도(6.32)__
 :-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/57060127/109317633-41d47b00-7890-11eb-8d59-9ca40ab5b0c9.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109317678-4ac54c80-7890-11eb-85ec-2a97c78160ec.png" width="300" height="150">   
+<br>
 
 
 -  [LSTM 최종모델](https://github.com/Jimin980921/DeepLearning_websys/blob/master/LSTM(per_season).ipynb)  
       - 데이터: __전력이용 1년 데이터(비공개)__  
-      
       -  [x] 계절성 모델   
-      > 전력만 사용했을때가 전력+온도를 함께 사용했을때보다 정확도 높은 것을 확인  
-      <br>
-      
+      -  
+ -  봄  
+ 
+__전력(2.95)__            |  __전력+온도(8.40)__
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/57060127/109319874-b7d9e180-7892-11eb-935d-df2e7bca65da.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109319907-c627fd80-7892-11eb-825a-08b8f80b0c64.png" width="300" height="150">
+
+
+-  여름  
+
+__전력(3.21)__            |  __전력+온도(10.95)__
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/57060127/109319954-d2ac5600-7892-11eb-8dd4-37a0c4469f54.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109319986-dc35be00-7892-11eb-9ef3-a3f71e42c404.png" width="300" height="150">
+
+
+-  가을 
+
+__전력(3.11)__            |  __전력+온도(6.37)__
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/57060127/109320036-e8218000-7892-11eb-8ceb-5f10a5da3ea9.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109320069-f374ab80-7892-11eb-90a5-7851ee9438d0.png" width="300" height="150">
+
+-  겨울
+
+__전력(3.65)__            |  __전력+온도(4.55)__
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/57060127/109320118-02f3f480-7893-11eb-9058-3c609a8f7639.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109320152-0be4c600-7893-11eb-9ce2-741c0d3e9043.png" width="300" height="150">     
+<br>
+
    - 조건별 모델
     -  [X] 계절별(3-6월:봄, 6-8월:여름, 9-11월:가을, 12-2월:겨울)  
     -  [X] 요일별 예측모델 
