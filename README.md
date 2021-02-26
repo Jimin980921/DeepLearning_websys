@@ -63,7 +63,7 @@
       > 전력만 사용했을때가 전력+온도를 함께 사용했을때보다 정확도 높은 것을 확인  
       <br>
       
-   - [CNN+LSTM 하이브리드모델](https://github.com/Jimin980921/DeepLearning_websys/commit/c32a7c4674651aaa38324feae637f7e6729f3282)  
+   - [CNN+LSTM 하이브리드모델](https://github.com/Jimin980921/DeepLearning_websys/blob/master/CNN%2BLSTM(per_season).ipynb)  
       - 데이터: __전력이용 1년 데이터(비공개)__  
       
       -  [x] 전력 단일요인 vs 전력+온도 다중요인 정확도 비교  
