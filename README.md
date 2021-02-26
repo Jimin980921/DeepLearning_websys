@@ -97,7 +97,7 @@ __전력(5.86)__            |  __전력+온도(6.32)__
 -  [LSTM 최종모델](https://github.com/Jimin980921/DeepLearning_websys/blob/master/LSTM(per_season).ipynb)  
       - 데이터: __전력이용 1년 데이터(비공개)__  
       -  [x] 계절성 모델   
-      -  
+    
  -  봄  
  
 __전력(2.95)__            |  __전력+온도(8.40)__
