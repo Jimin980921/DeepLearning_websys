@@ -72,7 +72,9 @@
  
 __전력(2.97)__            |  __전력+온도(2.96)__
 :-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/57060127/109316509-0b4a3080-788f-11eb-8188-6926bc517e62.png){: width="100" height="100"}  |  ![](https://user-images.githubusercontent.com/57060127/109316610-26b53b80-788f-11eb-9d55-35ffe772056e.png){: width="100" height="100"}  
+<img src="https://user-images.githubusercontent.com/57060127/109316509-0b4a3080-788f-11eb-8188-6926bc517e62.png" width="60%"> |  
+<img src="https://user-images.githubusercontent.com/57060127/109316610-26b53b80-788f-11eb-9d55-35ffe772056e.png" width="60%">
+
 
 -  여름  
 __전력(17.57)__            |  __전력+온도(17.34)__
