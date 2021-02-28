@@ -77,7 +77,7 @@ __전력(2.97)__            |  __전력+온도(2.96)__
 
 __전력(17.57)__            |  __전력+온도(17.34)__
 :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/57060127/109317213-d2f72200-788f-11eb-9c90-db827e178b8b.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109317251-de4a4d80-788f-11eb-9c5c-8915f6c9b163.png" width="300" height="150">
+<img src="https://user-images.githubusercontent.com/57060127/109317213-d2f72200-788f-11eb-9c90-db827e178b8b.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109317251-de4a4d80-788f-11eb-9c5c-8915f6c9b163.png" width="300" height="150">| 17.57 | 17.34
 
 
 -  가을(9-11월)  
