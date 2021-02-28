@@ -90,7 +90,8 @@ __전력(5.03)__            |  __전력+온도(5.05)__
 
 __전력(5.86)__            |  __전력+온도(6.32)__
 :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/57060127/109317633-41d47b00-7890-11eb-8d59-9ca40ab5b0c9.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109317678-4ac54c80-7890-11eb-85ec-2a97c78160ec.png" width="300" height="150">   
+<img src="https://user-images.githubusercontent.com/57060127/109317633-41d47b00-7890-11eb-8d59-9ca40ab5b0c9.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109317678-4ac54c80-7890-11eb-85ec-2a97c78160ec.png" width="300" height="150">  
+> 전력만 사용했을때가 전력+온도를 함께 사용했을때보다 정확도 높은 것을 확인   
 <br>
 
 
@@ -123,6 +124,7 @@ __전력(3.11)__            |  __전력+온도(6.37)__
 __전력(3.65)__            |  __전력+온도(4.55)__
 :-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/57060127/109320118-02f3f480-7893-11eb-9058-3c609a8f7639.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109320152-0be4c600-7893-11eb-9ce2-741c0d3e9043.png" width="300" height="150">     
+> 전력만 사용했을때가 전력+온도를 함께 사용했을때보다 정확도 높은 것을 확인  
 <br>
       
 ---------------------------------------------------------------------------------------------------------------
