@@ -70,14 +70,15 @@
  
 __전력(2.97)__            |  __전력+온도(2.96)__
 :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/57060127/109316509-0b4a3080-788f-11eb-8188-6926bc517e62.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109316610-26b53b80-788f-11eb-9d55-35ffe772056e.png" width="300" height="150">
+<img src="https://user-images.githubusercontent.com/57060127/109316509-0b4a3080-788f-11eb-8188-6926bc517e62.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109316610-26b53b80-788f-11eb-9d55-35ffe772056e.png" width="300" height="150">|
+|2.97|2.96|
 
 
 -  여름(6-8월)    
 
 __전력(17.57)__            |  __전력+온도(17.34)__
 :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/57060127/109317213-d2f72200-788f-11eb-9c90-db827e178b8b.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109317251-de4a4d80-788f-11eb-9c5c-8915f6c9b163.png" width="300" height="150">| 17.57 | 17.34
+<img src="https://user-images.githubusercontent.com/57060127/109317213-d2f72200-788f-11eb-9c90-db827e178b8b.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109317251-de4a4d80-788f-11eb-9c5c-8915f6c9b163.png" width="300" height="150">
 
 
 -  가을(9-11월)  
