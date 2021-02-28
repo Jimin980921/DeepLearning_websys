@@ -54,10 +54,10 @@
       
       -  [x] 전력요인으로만 예측한것vs전력+온도요인예측 정확도 비교  
       
-      __전력만__ 평균절대비오차= 3.04   
+      __전력만__ MAPE(평균절대비오차)= 3.04   
       <img src="https://user-images.githubusercontent.com/57060127/102181907-b2edce80-3eee-11eb-8781-33fabfafb7b1.JPG" width=50%>
       
-      __전력+온도__ 평균절대비오차= 4.54  
+      __전력+온도__ MAPE(평균절대비오차)= 4.54  
       <img src="https://user-images.githubusercontent.com/57060127/102181902-b1bca180-3eee-11eb-8704-5619780ad346.JPG" width=50%>
       
       > 전력만 사용했을때가 전력+온도를 함께 사용했을때보다 정확도 높은 것을 확인  
@@ -68,30 +68,35 @@
       -  [x] 계절성 모델  
  -  봄(3-5월)  
  
-__전력(2.97)__            |  __전력+온도(2.96)__
+__전력__            |  __전력+온도__
 :-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/57060127/109316509-0b4a3080-788f-11eb-8188-6926bc517e62.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109316610-26b53b80-788f-11eb-9d55-35ffe772056e.png" width="300" height="150">|
-|2.97|2.96|
+|MAPE=2.97|MAPE=2.96|
 
 
 -  여름(6-8월)    
 
-__전력(17.57)__            |  __전력+온도(17.34)__
+__전력__            |  __전력+온도(_
 :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/57060127/109317213-d2f72200-788f-11eb-9c90-db827e178b8b.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109317251-de4a4d80-788f-11eb-9c5c-8915f6c9b163.png" width="300" height="150">
+<img src="https://user-images.githubusercontent.com/57060127/109317213-d2f72200-788f-11eb-9c90-db827e178b8b.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109317251-de4a4d80-788f-11eb-9c5c-8915f6c9b163.png" width="300" height="150">|
+|MAPE=17.57|MAPE=17.34|
 
 
 -  가을(9-11월)  
 
-__전력(5.03)__            |  __전력+온도(5.05)__
+__전력__            |  __전력+온도__
 :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/57060127/109317509-1fdaf880-7890-11eb-85f2-932f02c47633.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109317550-29646080-7890-11eb-9602-9b788518d5b3.png" width="300" height="150">
+<img src="https://user-images.githubusercontent.com/57060127/109317509-1fdaf880-7890-11eb-85f2-932f02c47633.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109317550-29646080-7890-11eb-9602-9b788518d5b3.png" width="300" height="150">|
+|MAPE=5.03|MAPE=5.05|
+
 
 -  겨울(12-2월)  
 
-__전력(5.86)__            |  __전력+온도(6.32)__
+__전력__            |  __전력+온도__
 :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/57060127/109317633-41d47b00-7890-11eb-8d59-9ca40ab5b0c9.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109317678-4ac54c80-7890-11eb-85ec-2a97c78160ec.png" width="300" height="150">  
+<img src="https://user-images.githubusercontent.com/57060127/109317633-41d47b00-7890-11eb-8d59-9ca40ab5b0c9.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109317678-4ac54c80-7890-11eb-85ec-2a97c78160ec.png" width="300" height="150">|
+|MAPE=5.86|MAPE=6.32|
+
 > 전력만 사용했을때가 전력+온도를 함께 사용했을때보다 정확도 높은 것을 확인   
 <br>
 
@@ -102,29 +107,37 @@ __전력(5.86)__            |  __전력+온도(6.32)__
     
  -  봄(3-5월)   
  
-__전력(2.95)__            |  __전력+온도(8.40)__
+__전력__            |  __전력+온도__
 :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/57060127/109319874-b7d9e180-7892-11eb-935d-df2e7bca65da.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109319907-c627fd80-7892-11eb-825a-08b8f80b0c64.png" width="300" height="150">
+<img src="https://user-images.githubusercontent.com/57060127/109319874-b7d9e180-7892-11eb-935d-df2e7bca65da.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109319907-c627fd80-7892-11eb-825a-08b8f80b0c64.png" width="300" height="150">|
+|MAPE=2.95|MAPE=8.40|
+
 
 
 -  여름(6-8월)   
 
-__전력(3.21)__            |  __전력+온도(10.95)__
+__전력__            |  __전력+온도__
 :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/57060127/109319954-d2ac5600-7892-11eb-8dd4-37a0c4469f54.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109319986-dc35be00-7892-11eb-9ef3-a3f71e42c404.png" width="300" height="150">
+<img src="https://user-images.githubusercontent.com/57060127/109319954-d2ac5600-7892-11eb-8dd4-37a0c4469f54.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109319986-dc35be00-7892-11eb-9ef3-a3f71e42c404.png" width="300" height="150">|
+|MAPE=3.21|MAPE=10.95|
+
 
 
 -  가을(9-11월)   
 
-__전력(3.11)__            |  __전력+온도(6.37)__
+__전력__            |  __전력+온도__
 :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/57060127/109320036-e8218000-7892-11eb-8ceb-5f10a5da3ea9.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109320069-f374ab80-7892-11eb-90a5-7851ee9438d0.png" width="300" height="150">
+<img src="https://user-images.githubusercontent.com/57060127/109320036-e8218000-7892-11eb-8ceb-5f10a5da3ea9.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109320069-f374ab80-7892-11eb-90a5-7851ee9438d0.png" width="300" height="150">|
+|MAPE=3.11|MAPE=6.37|
+
 
 -  겨울(12-2월)  
 
-__전력(3.65)__            |  __전력+온도(4.55)__
+__전력__            |  __전력+온도__
 :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/57060127/109320118-02f3f480-7893-11eb-9058-3c609a8f7639.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109320152-0be4c600-7893-11eb-9ce2-741c0d3e9043.png" width="300" height="150">     
+<img src="https://user-images.githubusercontent.com/57060127/109320118-02f3f480-7893-11eb-9058-3c609a8f7639.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109320152-0be4c600-7893-11eb-9ce2-741c0d3e9043.png" width="300" height="150">|
+|MAPE=3.65|MAPE=4.55|
+
 > 전력만 사용했을때가 전력+온도를 함께 사용했을때보다 정확도 높은 것을 확인  
 <br>
       
