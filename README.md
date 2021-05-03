@@ -76,7 +76,7 @@ __전력__            |  __전력+온도__
 
 -  여름(6-8월)    
 
-__전력__            |  __전력+온도(_
+__전력__            |  __전력+온도_
 :-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/57060127/109317213-d2f72200-788f-11eb-9c90-db827e178b8b.png" width="300" height="150"> | <img src="https://user-images.githubusercontent.com/57060127/109317251-de4a4d80-788f-11eb-9c5c-8915f6c9b163.png" width="300" height="150">|
 |MAPE=17.57|MAPE=17.34|
